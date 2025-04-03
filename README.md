@@ -20,7 +20,7 @@
 ### 간단한 코드 예시
 다음은 Python의 간단한 코드입니다.
 
-'''
+'''python
 def greet(name):
   print(f"안녕하세요, {name}님!")
 
