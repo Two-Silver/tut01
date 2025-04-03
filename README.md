@@ -20,7 +20,11 @@
 ### 간단한 코드 예시
 다음은 Python의 간단한 코드입니다.
 
-<pre> ```python def greet(name): print(f"안녕하세요, {name}님!") greet("이은아") ``` </pre>
+<pre> 
+def greet(name): 
+  print(f"안녕하세요, {name}님!") 
+greet("이은아")
+</pre>
 
 ### 링크와 이미지
 [링크드인](https://www.linkedin.com/in/%EC%9D%80%EC%95%84-%EC%9D%B4-61b347321/)_
