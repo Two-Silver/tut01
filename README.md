@@ -32,8 +32,8 @@ greet("이은아")
 ![피카츄](https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2017%2F07%2Ftime-15-influential-video-game-characters-0.jpg?q=90&w=1400&cbr=1&fit=max)
 
 ### 할 일 목록
-- [ V ] 깃헙 계정 만들기
-- [ V ] 리포지토리 생성하기
+- [v] 깃헙 계정 만들기
+- [v] 리포지토리 생성하기
 - [ ] README 작성하기
 - [ ] 이슈 등록하기
 
